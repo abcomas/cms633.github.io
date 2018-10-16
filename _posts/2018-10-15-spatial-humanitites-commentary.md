@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: spatial-humanitites-commentary
 author: Abnell Comas
